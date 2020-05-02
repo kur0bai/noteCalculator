@@ -113,7 +113,7 @@ $(document).ready(function () {
         {
             nextInput ++;
             note = '<td><input type="number" id="note' + nextInput + '" name="note" class="note" max="10.0" min="0.0" placeholder="Note"></td>';
-            percent = '<td><input type="number" id="percent' + nextInput + '" name="percent" class="percent" max="90" min="10" placeholder="%"></td>';
+            percent = '<td><input type="number" id="percent' + nextInput + '" name="percent" class="percent" max="90" min="0" placeholder="%"></td>';
             col = '<td><a class="btn-floating btn-small waves-effect waves-light red delete-row"><i class="material-icons">delete</i></a></td>';
             row = '<tr> '+ note + ' ' + percent + ' ' + col + ' ' + '</tr>'
             $("#main-table tbody").append(row);
