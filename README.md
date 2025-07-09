@@ -12,8 +12,7 @@ Developed by Jesús Salcedo
 
 http://be.net/jesusSG
 
-http://github.com/jesus-sg
-
+http://github.com/kur0bai
 
 Illustrations by Undraw
 # notecalculator
